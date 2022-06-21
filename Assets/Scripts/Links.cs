@@ -11,6 +11,7 @@ public class Links : MonoBehaviour
 
     //public Animator animator;
     //private SCinventory slot;
+    //test1
  
     public void OpenEnvanterPanel()
     {
